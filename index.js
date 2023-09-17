@@ -1,6 +1,6 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
-const generateMarkdown = require("./generateMarkdown.js");
+const generateMarkdown = require("./utils/generateMarkdown");
 
 // Function to generate the table of contents
 function generateTableOfContents() {
