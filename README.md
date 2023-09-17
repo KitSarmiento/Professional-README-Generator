@@ -12,8 +12,8 @@ Coding-boot-camp - Starter Code was cloned from https://github.com/coding-boot-c
 
 # Usage
 
-1. Open the itergrated terminal
-2. Type node.js
+1. Open the integrated terminal
+2. Type node index.js
 3. Answer the prompts or questions
 4. when your done, a (Generated)README file will be generated.
 
