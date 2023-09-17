@@ -2,6 +2,20 @@ const fs = require("fs");
 const inquirer = require("inquirer");
 const generateMarkdown = require("./generateMarkdown.js");
 
+// Function to generate the table of contents
+function generateTableOfContents() {
+  return `
+  ## Table of Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  `;
+}
+
 // TODO: Create an array of questions for user input
 const questions = [];
 
