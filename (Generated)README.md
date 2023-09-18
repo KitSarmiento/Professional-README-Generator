@@ -1,8 +1,8 @@
-
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-
 # Professional README Generator
+
+
+## Licensing
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
   ## Table of Contents
@@ -31,7 +31,8 @@ This project is licensed under the MIT License.
 N/A
 
 ## Tests
+
 No test is needed
 
 ## Questions
-If you have any questions, you can reach me at [Ksarmiento@gmail.com](mailto:Ksarmiento@gmail.com) or visit my GitHub profile at [GitHub](https://github.com/KitSarmiento).
+If you have any questions, you can reach me at [ksarmiento@gmail.com](mailto:ksarmiento@gmail.com) or visit my GitHub profile at [GitHub](https://github.com/KitSarmiento).

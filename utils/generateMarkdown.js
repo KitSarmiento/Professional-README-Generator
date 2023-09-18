@@ -34,9 +34,12 @@ function generateMarkdown(data, tableOfContents) {
   const licenseNotice = generateLicenseNotice(data.license);
 
   return `
-${licenseBadge}
+
 
 # ${data.projectTitle}
+
+## Licensing
+${licenseBadge}
 
 ${tableOfContents}
 
