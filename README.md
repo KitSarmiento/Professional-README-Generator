@@ -6,6 +6,8 @@ This week's challenge is to create a command-line application that dynamically g
 
 The Professional README Generator simplifies the task of creating excellent README files for GitHub projects. It uses the Inquirer platform to ask users for important project details, resulting in a polished and professional end product. This automated tool saves time and improves project documentation, making it more attractive to potential users and contributors.
 
+Link to the final project -
+
 # Installation
 
 Coding-boot-camp - Starter Code was cloned from https://github.com/coding-boot-camp/potential-enigma
@@ -17,9 +19,10 @@ Coding-boot-camp - Starter Code was cloned from https://github.com/coding-boot-c
 3. Answer the prompts or questions
 4. when your done, a (Generated)README file will be generated.
 
-Project Screenshot
+Project Screenshot:
+![image](https://github.com/KitSarmiento/Professional-README-Generator/assets/135483936/17bdc490-0541-4382-b35e-d081ba745382)
 
-WalkThrought video
+Walkthrough video: https://drive.google.com/file/d/1S74UhBNO0GMlTmixjl8OLa4A-qHdzaLA/view
 
 # Credits
 
