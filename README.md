@@ -6,7 +6,6 @@ This week's challenge is to create a command-line application that dynamically g
 
 The Professional README Generator simplifies the task of creating excellent README files for GitHub projects. It uses the Inquirer platform to ask users for important project details, resulting in a polished and professional end product. This automated tool saves time and improves project documentation, making it more attractive to potential users and contributors.
 
-Link to the final project -
 
 # Installation
 
